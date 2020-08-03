@@ -12,6 +12,7 @@ public class HelloJava {
 		//주석입니다 코드를 설명 개발자가 보기위함
 		System.out.println("Hello,Java");
 		System.out.println("김근태");
+		System.out.println("수정했음!");
 		/*
 		    여러줄 
 		    주석이다 
